@@ -1,4 +1,4 @@
-# GptCLone
+# GptClone
 
 ## Getting Started
 
