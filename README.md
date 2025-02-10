@@ -30,7 +30,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ### LLM
 
-The LLM is ran using Docker. Note - the app is currently hardcoded to use a specific port and LLM model (Llama2), please do not change these settings.
+The LLM is ran using Docker. Note - the app is currently hardcoded to use a specific port and LLM model (11434 and Llama2), please do not change these settings.
 
 To run the LLM on CPU only-
 ```bash
